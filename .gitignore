@@ -89,3 +89,7 @@ Temporary Items
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+
+
+### Project ###
+MNIST_data
